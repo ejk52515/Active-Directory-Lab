@@ -1,4 +1,7 @@
 ## 🔬 Active Directory Lab 1
+
+Loom link: https://www.loom.com/share/bd6d555d266b4a378061af5621bda8a7
+
 *Windows Server 2025 · Azure · Identity & Access Management*
 
 [![Certification](https://img.shields.io/badge/Cert%20Alignment-CompTIA%20Network%2B%20%7C%20Security%2B%20%7C%20Azure%20Administrator-blue)](https://www.comptia.org)
